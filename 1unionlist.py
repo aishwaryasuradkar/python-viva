@@ -1,0 +1,1 @@
+#list la set madhe convert krun set1.union fun use krun print union
